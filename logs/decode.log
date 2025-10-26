@@ -1,0 +1,908 @@
+2025/10/26 18:20:00 === Decode Multiple Test Started ===
+2025/10/26 18:20:00 Test Case #1: ID = 107861853232828416
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 0 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828416
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 0
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #2: ID = 107861853232828417
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 1 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828417
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 1
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #3: ID = 107861853232828418
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 2 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828418
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 2
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #4: ID = 107861853232828419
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 3 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828419
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 3
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #5: ID = 107861853232828420
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 4 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828420
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 4
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #6: ID = 107861853232828421
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 5 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828421
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 5
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #7: ID = 107861853232828422
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 6 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828422
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 6
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #8: ID = 107861853232828423
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 7 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828423
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 7
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #9: ID = 107861853232828424
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 8 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828424
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 8
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #10: ID = 107861853232828425
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 9 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828425
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 9
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #11: ID = 107861853232828426
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 10 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828426
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 10
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #12: ID = 107861853232828427
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 11 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828427
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 11
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #13: ID = 107861853232828428
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 12 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828428
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 12
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #14: ID = 107861853232828429
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 13 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828429
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 13
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #15: ID = 107861853232828430
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 14 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828430
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 14
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #16: ID = 107861853232828431
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 15 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828431
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 15
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #17: ID = 107861853232828432
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 16 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828432
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 16
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #18: ID = 107861853232828433
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 17 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828433
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 17
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #19: ID = 107861853232828434
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 18 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828434
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 18
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #20: ID = 107861853232828435
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 19 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828435
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 19
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #21: ID = 107861853232828436
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 20 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828436
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 20
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #22: ID = 107861853232828437
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 21 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828437
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 21
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #23: ID = 107861853232828438
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 22 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828438
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 22
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #24: ID = 107861853232828439
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 23 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828439
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 23
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #25: ID = 107861853232828440
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 24 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828440
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 24
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #26: ID = 107861853232828441
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 25 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828441
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 25
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #27: ID = 107861853232828442
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 26 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828442
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 26
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #28: ID = 107861853232828443
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 27 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828443
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 27
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #29: ID = 107861853232828444
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 28 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828444
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 28
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #30: ID = 107861853232828445
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 29 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828445
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 29
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #31: ID = 107861853232828446
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 30 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828446
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 30
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #32: ID = 107861853232828447
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 31 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828447
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 31
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #33: ID = 107861853232828448
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 32 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828448
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 32
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #34: ID = 107861853232828449
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 33 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828449
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 33
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #35: ID = 107861853232828450
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 34 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828450
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 34
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #36: ID = 107861853232828451
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 35 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828451
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 35
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #37: ID = 107861853232828452
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 36 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828452
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 36
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #38: ID = 107861853232828453
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 37 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828453
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 37
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #39: ID = 107861853232828454
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 38 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828454
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 38
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #40: ID = 107861853232828455
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 39 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828455
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 39
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #41: ID = 107861853232828456
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 40 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828456
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 40
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #42: ID = 107861853232828457
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 41 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828457
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 41
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #43: ID = 107861853232828458
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 42 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828458
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 42
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #44: ID = 107861853232828459
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 43 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828459
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 43
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #45: ID = 107861853232828460
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 44 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828460
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 44
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #46: ID = 107861853232828461
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 45 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828461
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 45
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #47: ID = 107861853232828462
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 46 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828462
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 46
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #48: ID = 107861853232828463
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 47 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828463
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 47
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #49: ID = 107861853232828464
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 48 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828464
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 48
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 Test Case #50: ID = 107861853232828465
+2025/10/26 18:20:00 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 49 | RawUnixMs: 25716269787
+2025/10/26 18:20:00 ID: 107861853232828465
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 49
+✅ All bit fields match perfectly.
+
+2025/10/26 18:20:00 === Decode Multiple Test Finished ===
+2025/10/26 18:26:41 === Decode Multiple Test Started ===
+2025/10/26 18:26:41 Test Case #1: ID = 107861853232828416
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 0 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828416
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 0
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #2: ID = 107861853232828417
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 1 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828417
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 1
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #3: ID = 107861853232828418
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 2 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828418
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 2
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #4: ID = 107861853232828419
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 3 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828419
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 3
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #5: ID = 107861853232828420
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 4 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828420
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 4
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #6: ID = 107861853232828421
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 5 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828421
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 5
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #7: ID = 107861853232828422
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 6 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828422
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 6
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #8: ID = 107861853232828423
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 7 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828423
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 7
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #9: ID = 107861853232828424
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 8 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828424
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 8
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #10: ID = 107861853232828425
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 9 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828425
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 9
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #11: ID = 107861853232828426
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 10 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828426
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 10
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #12: ID = 107861853232828427
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 11 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828427
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 11
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #13: ID = 107861853232828428
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 12 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828428
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 12
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #14: ID = 107861853232828429
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 13 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828429
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 13
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #15: ID = 107861853232828430
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 14 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828430
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 14
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #16: ID = 107861853232828431
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 15 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828431
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 15
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #17: ID = 107861853232828432
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 16 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828432
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 16
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #18: ID = 107861853232828433
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 17 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828433
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 17
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #19: ID = 107861853232828434
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 18 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828434
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 18
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #20: ID = 107861853232828435
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 19 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828435
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 19
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #21: ID = 107861853232828436
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 20 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828436
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 20
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #22: ID = 107861853232828437
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 21 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828437
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 21
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #23: ID = 107861853232828438
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 22 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828438
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 22
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #24: ID = 107861853232828439
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 23 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828439
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 23
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #25: ID = 107861853232828440
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 24 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828440
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 24
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #26: ID = 107861853232828441
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 25 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828441
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 25
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #27: ID = 107861853232828442
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 26 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828442
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 26
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #28: ID = 107861853232828443
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 27 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828443
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 27
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #29: ID = 107861853232828444
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 28 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828444
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 28
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #30: ID = 107861853232828445
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 29 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828445
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 29
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #31: ID = 107861853232828446
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 30 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828446
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 30
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #32: ID = 107861853232828447
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 31 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828447
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 31
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #33: ID = 107861853232828448
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 32 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828448
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 32
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #34: ID = 107861853232828449
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 33 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828449
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 33
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #35: ID = 107861853232828450
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 34 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828450
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 34
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #36: ID = 107861853232828451
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 35 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828451
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 35
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #37: ID = 107861853232828452
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 36 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828452
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 36
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #38: ID = 107861853232828453
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 37 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828453
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 37
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #39: ID = 107861853232828454
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 38 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828454
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 38
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #40: ID = 107861853232828455
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 39 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828455
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 39
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #41: ID = 107861853232828456
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 40 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828456
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 40
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #42: ID = 107861853232828457
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 41 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828457
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 41
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #43: ID = 107861853232828458
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 42 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828458
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 42
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #44: ID = 107861853232828459
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 43 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828459
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 43
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #45: ID = 107861853232828460
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 44 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828460
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 44
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #46: ID = 107861853232828461
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 45 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828461
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 45
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #47: ID = 107861853232828462
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 46 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828462
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 46
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #48: ID = 107861853232828463
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 47 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828463
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 47
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #49: ID = 107861853232828464
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 48 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828464
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 48
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 Test Case #50: ID = 107861853232828465
+2025/10/26 18:26:41 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 49 | RawUnixMs: 25716269787
+2025/10/26 18:26:41 ID: 107861853232828465
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 49
+✅ All bit fields match perfectly.
+
+2025/10/26 18:26:41 === Decode Multiple Test Finished ===
+
+2025/10/26 18:27:56 === Decode Multiple Test Started ===
+2025/10/26 18:27:56 Test Case #1: ID = 107861853232828416
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 0 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828416
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 0
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #2: ID = 107861853232828417
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 1 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828417
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 1
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #3: ID = 107861853232828418
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 2 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828418
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 2
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #4: ID = 107861853232828419
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 3 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828419
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 3
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #5: ID = 107861853232828420
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 4 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828420
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 4
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #6: ID = 107861853232828421
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 5 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828421
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 5
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #7: ID = 107861853232828422
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 6 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828422
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 6
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #8: ID = 107861853232828423
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 7 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828423
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 7
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #9: ID = 107861853232828424
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 8 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828424
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 8
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #10: ID = 107861853232828425
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 9 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828425
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 9
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #11: ID = 107861853232828426
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 10 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828426
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 10
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #12: ID = 107861853232828427
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 11 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828427
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 11
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #13: ID = 107861853232828428
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 12 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828428
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 12
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #14: ID = 107861853232828429
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 13 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828429
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 13
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #15: ID = 107861853232828430
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 14 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828430
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 14
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #16: ID = 107861853232828431
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 15 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828431
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 15
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #17: ID = 107861853232828432
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 16 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828432
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 16
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #18: ID = 107861853232828433
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 17 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828433
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 17
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #19: ID = 107861853232828434
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 18 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828434
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 18
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #20: ID = 107861853232828435
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 19 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828435
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 19
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #21: ID = 107861853232828436
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 20 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828436
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 20
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #22: ID = 107861853232828437
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 21 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828437
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 21
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #23: ID = 107861853232828438
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 22 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828438
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 22
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #24: ID = 107861853232828439
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 23 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828439
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 23
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #25: ID = 107861853232828440
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 24 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828440
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 24
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #26: ID = 107861853232828441
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 25 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828441
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 25
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #27: ID = 107861853232828442
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 26 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828442
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 26
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #28: ID = 107861853232828443
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 27 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828443
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 27
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #29: ID = 107861853232828444
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 28 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828444
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 28
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #30: ID = 107861853232828445
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 29 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828445
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 29
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #31: ID = 107861853232828446
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 30 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828446
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 30
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #32: ID = 107861853232828447
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 31 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828447
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 31
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #33: ID = 107861853232828448
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 32 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828448
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 32
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #34: ID = 107861853232828449
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 33 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828449
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 33
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #35: ID = 107861853232828450
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 34 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828450
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 34
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #36: ID = 107861853232828451
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 35 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828451
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 35
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #37: ID = 107861853232828452
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 36 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828452
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 36
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #38: ID = 107861853232828453
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 37 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828453
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 37
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #39: ID = 107861853232828454
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 38 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828454
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 38
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #40: ID = 107861853232828455
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 39 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828455
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 39
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #41: ID = 107861853232828456
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 40 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828456
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 40
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #42: ID = 107861853232828457
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 41 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828457
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 41
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #43: ID = 107861853232828458
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 42 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828458
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 42
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #44: ID = 107861853232828459
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 43 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828459
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 43
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #45: ID = 107861853232828460
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 44 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828460
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 44
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #46: ID = 107861853232828461
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 45 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828461
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 45
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #47: ID = 107861853232828462
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 46 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828462
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 46
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #48: ID = 107861853232828463
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 47 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828463
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 47
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #49: ID = 107861853232828464
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 48 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828464
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 48
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Test Case #50: ID = 107861853232828465
+2025/10/26 18:27:56 Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | Datacenter: 1 | Worker: 1 | Sequence: 49 | RawUnixMs: 25716269787
+2025/10/26 18:27:56 ID: 107861853232828465
+Decoded → Timestamp: 2025-10-25 20:54:29.787 +0530 IST | DC: 1 | Worker: 1 | Seq: 49
+✅ All bit fields match perfectly.
+
+2025/10/26 18:27:56 Number of pass : 50 , Number of faile : 0 , Total testcases : 50 
+2025/10/26 18:27:56 === Decode Multiple Test Finished ===

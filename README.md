@@ -1,11 +1,11 @@
-🧊 Snowflake UUID Generator (Go)
+## 🧊 Snowflake UUID Generator (Go)
 
 A high-performance, thread-safe **Snowflake ID generator** written in Go.  
 It generates unique 64-bit IDs inspired by Twitter’s Snowflake algorithm — ideal for distributed systems, databases, and high-concurrency environments.
 
 ---
 
-⚙️ Features
+## ⚙️ Features
 
 - 64-bit **unique IDs** combining timestamp, datacenter ID, worker ID, and sequence.
 - **Configurable epoch** for compact IDs and version control.
@@ -16,7 +16,7 @@ It generates unique 64-bit IDs inspired by Twitter’s Snowflake algorithm — i
 
 ---
 
-🧮 ID Bit Layout
+## 🧮 ID Bit Layout
 
 | Bits | Field          | Description                                |
 |------|----------------|--------------------------------------------|
@@ -29,7 +29,7 @@ Total: 63 bits(1 bit reserved for sign)
 
 ---
 
-🧠 Formula
+## 🧠 Formula
 
 ```
 ID = (timestamp << timeShift) | (datacenterId << dcShift) | (workerId << workerShift) | sequence
@@ -42,7 +42,7 @@ Each part ensures uniqueness:
 
 ---
 
-🗓️ Default Epoch
+## 🗓️  Default Epoch
 
 ```
 January 1, 2025 (UTC)
@@ -53,7 +53,7 @@ You can customize this in the `GeneratorConfig`.
 
 ---
 
-📦 Project Structure
+## 📦 Project Structure
 
 ```
 uuid-generator/
@@ -71,7 +71,7 @@ uuid-generator/
 
 ---
 
-🚀 Usage
+## 🚀 Usage
 
 Import the package
 
@@ -104,7 +104,7 @@ fmt.Println("Generated ID:", id)
 
 ---
 
-🧪 Run Test
+## 🧪 Run Test
 
 To test ID generation and log output:
 
@@ -120,7 +120,7 @@ Logs are automatically stored in:
 
 ---
 
-🧰 Configuration Options
+## 🧰 Configuration Options
 
 | Field          | Type   | Description                                  |
 |----------------|--------|----------------------------------------------|
@@ -132,7 +132,7 @@ Logs are automatically stored in:
 ---
 
 
-⚠️ Notes (For future use)
+## ⚠️ Notes (For future use)
 
 - **Single shard** (Shards = 1) ensures guaranteed uniqueness on a single machine.
 - If you use **multiple shards or nodes**, assign **unique WorkerIds** or DatacenterIds per node.
